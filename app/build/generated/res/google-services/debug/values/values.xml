@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">186565283256-mt58ih5k4fl4bgsqnk4e9991ifp9ved2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">186565283256</string>
+    <string name="google_api_key" translatable="false">AIzaSyCgfD9R83FslyfwYUpl1fBhOjK9t_0w11c</string>
+    <string name="google_app_id" translatable="false">1:186565283256:android:4714208bf2626ff3b6934d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCgfD9R83FslyfwYUpl1fBhOjK9t_0w11c</string>
+    <string name="google_storage_bucket" translatable="false">nenis-app-br.appspot.com</string>
+    <string name="project_id" translatable="false">nenis-app-br</string>
+</resources>

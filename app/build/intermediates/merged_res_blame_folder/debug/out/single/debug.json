@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/raw_sleeping_baby.json.flat",
+        "source": "com.ilustris.nenis.app-main-62:/raw/sleeping_baby.json"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_plastic_duck_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/plastic_duck_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_baby_kid_childcare_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/baby_kid_childcare_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_parental_control_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/parental_control_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/xml_backup_rules.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/font_itim.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/font/itim.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_check_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/check_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_moon_sleep_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/moon_sleep_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_activity_main.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_minus_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/minus_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_carrot_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/carrot_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_activity_home.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_bear_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/bear_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_explore_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/explore_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_crawling_baby_silhouette_svgrepo_com.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/crawling_baby_silhouette_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_fragment_notifications.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_fragment_home.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_fragment_dashboard.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_activity_login.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ilustris.nenis.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_task_layout.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/task_layout.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/navigation_mobile_navigation.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.ilustris.nenis.app-merged_res-60:/layout_bottom_sheet_fragment.xml.flat",
+        "source": "com.ilustris.nenis.app-main-62:/layout/bottom_sheet_fragment.xml"
+    }
+]

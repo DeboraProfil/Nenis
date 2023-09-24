@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "186565283256",
+    "project_id": "nenis-app-br",
+    "storage_bucket": "nenis-app-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186565283256:android:4714208bf2626ff3b6934d",
+        "android_client_info": {
+          "package_name": "com.ilustris.nenis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186565283256-mt58ih5k4fl4bgsqnk4e9991ifp9ved2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgfD9R83FslyfwYUpl1fBhOjK9t_0w11c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186565283256-mt58ih5k4fl4bgsqnk4e9991ifp9ved2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "186565283256-aevl43p2od9v6ln0uee02kngg4p07jt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ilustris.Nenis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

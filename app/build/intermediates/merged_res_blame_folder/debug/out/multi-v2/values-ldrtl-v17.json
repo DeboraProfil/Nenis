@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ilustris.nenis.app-mergeDebugResources-58:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cacai\\.gradle\\caches\\transforms-3\\934e45588d786b7f23f6d9fdd54835f8\\transformed\\material-1.9.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

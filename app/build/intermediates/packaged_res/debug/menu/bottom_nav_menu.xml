@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/exploreTab"
+        android:icon="@drawable/explore_svgrepo_com"
+        android:title="Explorar" />
+
+    <item
+        android:id="@+id/meubebeTab"
+        android:icon="@drawable/baby_kid_childcare_svgrepo_com"
+        android:title="Meu Bebê" />
+
+    <item
+        android:id="@+id/euTab"
+        android:icon="@drawable/parental_control_svgrepo_com"
+        android:title="Eu" />
+
+</menu>
